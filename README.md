@@ -8,4 +8,4 @@ It's basically the official [SUSECON Digital 2022 agenda](https://susecon.com/ag
 
 [Day 3: Thursday 9 June](day3.md)
 
-SUSECON Digital 2022 takes place online and is [free to attend](https://reg.rainfocus.com/flow/suse/susecon22/registration/login), either in real-time or after the event "on demand".
+SUSECON Digital 2022 takes place online and is [free to attend](https://reg.rainfocus.com/flow/suse/susecon22/registration/login?utm_source=SimonTwitter&utm_medium=Social&utm_campaign=Collective), either in real-time or after the event "on demand".
