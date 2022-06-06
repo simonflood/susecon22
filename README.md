@@ -1,6 +1,6 @@
 This is an unofficial complete agenda for SUSECON Digital 2022 that I've created for my own use but others may find useful.
 
-It's basically the official [SUSECON Digital 2022 agenda](https://susecon.com/agenda.html) merged with the [sessions](https://www.susecon.com/sessions.html) with a page for each day:
+It's basically the official [SUSECON Digital 2022 agenda](https://susecon.com/agenda.html) combined with the [available sessions](https://www.susecon.com/sessions.html) (as of Monday 6 June 18:30 BST) with a page for each day:
 
 [Day 1: Tuesday 7 June](day1.md)
 
