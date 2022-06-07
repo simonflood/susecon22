@@ -82,14 +82,11 @@
 | 5-5:30 p.m. | 4-4:30 p.m. | [BOV-1305](https://www.susecon.com/sessions.html#/session/16492865186670018WYY) Edge and Digital Transformation via SLE Micro and SUSE Rancher |
 |             |             | [BP-1076](https://www.susecon.com/sessions.html#/session/1648057270255001CZ6x) Integrating Third-party and Custom Software into Suse Manager Content Lifecycles |
 |             |             | [BP-1186](https://www.susecon.com/sessions.html#/session/1648676519965001Umqi) From OpenStack to Harvester: A window into Hyperconverged Infrastructure |
-<!--|             |             | [CUST-1269](https://www.susecon.com/sessions.html#/session/16492549644630012ggC) A Case Study in Modernizing Workload Management at the Government in Hong Kong SAR |-->
 |             |             | [TUT-1071](https://www.susecon.com/sessions.html#/session/1648031117203001HNWo) Simplifying SLE-HA Cluster bootstrap and shutdown with SLE-HA 15SP4 |
 |             |             | [TUT-1133](https://www.susecon.com/sessions.html#/session/1648577928035001D2pe) Apply security to your servers with AppArmor |
-<!--|             |             | [TUT-1139](https://www.susecon.com/sessions.html#/session/1648577928243001DEKZ) OS Lifecycle Management with Rancher and Kubernetes |-->
 |             |             | [TUT-1167](https://www.susecon.com/sessions.html#/session/1648577929256001DIMy) Opni Technical Overview |
 | 5:30-6 p.m. | 4:30-5 p.m. | [BP-1187](https://www.susecon.com/sessions.html#/session/1648676768682001zYIp) Kicking the Tires: Journey to building a Harvester test automation framework |
 |             |             | [BP-1300](https://www.susecon.com/sessions.html#/session/1649282320465001GJwI) Deploy Kubernetes to the Edge With SUSE Manager and SUSE Rancher |
-<!--|             |             | [FUT-1138](https://www.susecon.com/sessions.html#/session/1648577928202001DEwo) What's coming with Harvester HCI in 2022 |-->
 |             |             | [TUT-1166](https://www.susecon.com/sessions.html#/session/1648577929220001DJ0t) Opni |
 |             |             | [TUT-1218](https://www.susecon.com/sessions.html#/session/164909410961800146HF) Releasing Kubernetes |
 |             |             | [TUT-1229](https://www.susecon.com/sessions.html#/session/1649169089405001rmPz) Swimming with Redfish |
