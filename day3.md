@@ -54,6 +54,7 @@
 | 4:30-5 p.m. | 3:30-4 p.m. | [BP-1252](https://www.susecon.com/sessions.html#/session/1649220941329001pXsm) Pets -vs- Cattle - Managing Systems effectively |
 |             |             | [BP-1296](https://www.susecon.com/sessions.html#/session/1649279080146001gkkv) Cloud Native at the Industrial Edge |
 |             |             | [TUT-1080](https://www.susecon.com/sessions.html#/session/1648146972243001R7mN) Migrating SUSE Workloads to AWS with AWS Application Migration Service (2022 Update) |
+|             |             | [POV-1134](https://www.susecon.com/sessions.html#/session/1648577928069001DioW) SUSE Edge: An Introduction, Overview and Roadmap |
 |             |             | [TUT-1136](https://www.susecon.com/sessions.html#/session/1648577928138001DEdr) Improving the Developer Experience of Kubernetes |
 |             |             | [TUT-1212](https://www.susecon.com/sessions.html#/session/16490787591920019KcD) Cloud native trusted container registry for Kubernetes |
 |             |             | [TUT-1220](https://www.susecon.com/sessions.html#/session/1649095792148001pZU0) Securing Kubernetes After Pod Security Policies (scheduled to be removed in v1.25) |
